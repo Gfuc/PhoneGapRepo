@@ -1,0 +1,6 @@
+http://docs.phonegap.com/
+https://build.phonegap.com/apps
+http://cordova.apache.org/docs/en/5.1.1/guide/overview/
+http://docs.phonegap.com/en/2.3.0/guide_getting-started_android_index.md.html#Getting%20Started%20with%20Android
+http://phonegap.com/blog/2015/03/12/mobile-choices-post1/
+http://www.tricedesigns.com/2013/01/18/my-workflow-for-developing-phonegap-applications/
